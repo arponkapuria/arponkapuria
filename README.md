@@ -1,6 +1,4 @@
-📢 I am looking for a PhD/Job in AI 
-
-
+📌 I am looking for a PhD/Job in AI 
 
 </p>
 
