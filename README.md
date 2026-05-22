@@ -2,6 +2,10 @@
   ‼️ I am looking for a PhD/Job in AI ‼️
 </p>
 
+<p align="center">
+  ‼️ I AM LOOKING FOR A PhD/JOB IN AI ‼️
+</p>
+
 Hi there 👋  
 
 I'm Arpon, a Computer Science graduate on paper and a traveler at heart !
@@ -17,7 +21,7 @@ I'm Arpon, a Computer Science graduate on paper and a traveler at heart !
 - Post Training Workflows
 - Generative NLP (Reasoning, Factuality, Controllable Generation)
 
-📌 **N.B:** I am looking for a PhD/Job in AI
+<br>
 
 💬 Feel free to reach out if you’re interested in collaborating or just want to chat about tech, travel or anything !
 
