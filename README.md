@@ -2,10 +2,6 @@
   ‼️ I am looking for a PhD/Job in AI ‼️
 </p>
 
-<p align="center">
-  ‼️ I AM LOOKING FOR A PhD/JOB IN AI ‼️
-</p>
-
 Hi there 👋  
 
 I'm Arpon, a Computer Science graduate on paper and a traveler at heart !
