@@ -17,7 +17,7 @@ I'm Arpon, a Computer Science graduate on paper and a traveler at heart !
 **Interests**
  
 - RAG / Agentic AI
-- Post Training Workflows
+- Inference, Serving, Evaluation & AI Infra
 - Generative NLP (Reasoning, Factuality, Controllable Generation)
 
 <br>
