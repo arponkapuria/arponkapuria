@@ -1,25 +1,28 @@
+📢 Open to AI Engineer / ML Engineer / Research Engineer opportunities.
+---
 
-📢 I am looking for a Job in AI
-
---
-
-</p>
-
-Hi there 👋  
-
-I'm Arpon, a Computer Science graduate on paper and a traveler at heart !
-
-- 🎓 I graduated from NIT Trichy, India and I am currently working as an Independent Researcher/ Engineer. 
-- 💻 I like exploring AI/ML tech stacks and solving problems on platforms like [LeetCode ↗](https://leetcode.com/u/arpon_) / [Deep-ML ↗](https://www.deep-ml.com/profile/4WGysk4rhvMuA2rWEkH2KaIHTv93) / [LeetGPU ↗](https://leetgpu.com/arpon_).
-- 🌱 Outside work, I love to travel, write, explore food spots and photography. You can find my photos here - [Gallery ↗](https://arpon-kapuria.github.io/gallery.html).
-- 📖 Check out this cool AI prep website I made - [AI-Dictionary ↗](https://ai-dictionary-vert.vercel.app/).
 <br>
 
-**Interests**
+I'm Arpon. <br>
+An Independent Researcher & Engineer.
+
+<br>
+
+**Areas of Interest**
 
 - RAG / Agentic AI
-- Inference, Serving, Evaluation & AI Infra
+- Inference, Serving, Evaluation & AI/ML Infra
 - Generative NLP (Reasoning, Factuality, Controllable Generation)
+
+🚀 Currently building [AI-Dictionary ↗](https://ai-dictionary-vert.vercel.app/) — a Visual Knowledge Graph for AI Concepts.
+
+<br>
+
+**About Me**
+
+- 🎓 Computer Science Graduate from NIT Trichy, India.
+- 💻 I write about AI/ML, SWE & Careers - [Blogs ↗](https://arpon-kapuria.github.io/blogs.html). In my free time, I solve problems on - [LeetCode](https://leetcode.com/u/arpon_) / [Deep-ML](https://www.deep-ml.com/profile/4WGysk4rhvMuA2rWEkH2KaIHTv93) / [LeetGPU](https://leetgpu.com/arpon_).
+- 🌱 Outside work, I enjoy travelling, exploring local food, and photography. You can find my photos here - [Gallery ↗](https://arpon-kapuria.github.io/gallery.html).
 
 <br>
 
