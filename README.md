@@ -14,7 +14,7 @@ An Independent Researcher & Engineer.
 - Inference, Serving, Evaluation & AI/ML Infra
 - Generative NLP (Reasoning, Factuality, Controllable Generation)
 
-🚀 Currently building [AI-Dictionary ↗](https://ai-dictionary-vert.vercel.app/) — a Visual Knowledge Graph for AI Concepts.
+🚀 Currently building [AI-Space ↗](https://ai-space-vert.vercel.app/) — a Visual Knowledge Graph for AI Concepts.
 
 <br>
 
