@@ -4,7 +4,7 @@
 <br>
 
 I'm Arpon. <br>
-An Independent Researcher & Engineer.
+An Independent AI Engineer & Researcher.
 
 <br>
 
