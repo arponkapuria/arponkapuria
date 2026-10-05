@@ -10,11 +10,9 @@ An Independent AI Engineer & Researcher.
 
 **Areas of Interest**
 
-- RAG / Agentic AI
-- Inference, Serving, Evaluation & AI/ML Infra
-- Generative NLP (Reasoning, Factuality, Controllable Generation)
-
-🚀 Currently building [AI-Space ↗](https://ai-space-vert.vercel.app/) — a Visual Knowledge Graph for AI Concepts.
+- RAG / Agentic AI Systems
+- Inference, Serving, Evaluation & Infra (AI/ML)
+- Language Modeling, Inference Optimization, Reliability
 
 <br>
 
